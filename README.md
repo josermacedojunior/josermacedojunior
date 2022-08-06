@@ -1,9 +1,9 @@
 ### Olá! Eu sou o José Macedo Júnior
 
 
-- 🔭 Hoje meu foco é Análise de Dados
+- 🔭 Atualmente estou focado em Análise de Dados
 - 🌱 Estou estudando Python e SQL
-- 😄 Pronouns: ele/dele
+- 😄 Pronome: ele/dele
 
 <div align="center">
   <a href="https://github.com/josermacedojunior">
