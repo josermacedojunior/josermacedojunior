@@ -1,8 +1,8 @@
 ### Olá! Eu sou o José Macedo Júnior
 
 
-- 🔭 Atualmente estou focado em Big Data
-- 🌱 Estou estudando Python e SQL
+- 🔭 Atualmente estou focado em Java
+- 🌱 Estou estudando Java e NoSQL
 - 😄 Pronome: ele/dele
 
 <div align="center">
